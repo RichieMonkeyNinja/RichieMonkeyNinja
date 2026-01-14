@@ -1,5 +1,8 @@
 <h2>Hi, I'm Richie Teoh!</h2>
 
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/8b9a0dbe-f800-405d-8e52-154faa28f366" />
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;I+am+an+Aspiring+Data+Engineer!)](https://git.io/typing-svg)
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM4YnR1Nmt4cDRha252aXNkNnBnYnVkaTZzZmxlMjljaHE2dTRzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rRAAYiPvYkJhuTqKG/giphy.gif" width="230">
@@ -9,7 +12,7 @@
 
 [![Linkedin: richieteoh](https://img.shields.io/badge/-richieteoh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RichieTeoh/)](https://www.linkedin.com/in/richie-teoh-663b31244/)
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZxNHJ2NmcyOGluYzgxZ21lajI5cG9iNHp3MGJ0bnpwN3JhbXRvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5nP7Nwu5FzMc/giphy.gif" width="30" height="30"> A little more about me...  
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZxNHJ2NmcyOGluYzgxZ21lajI5cG9iNHp3MGJ0bnpwN3JhbXRvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5nP7Nwu5FzMc/giphy.gif" width="30" height="30"> My Limited Tech Stack!
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Tool+Box!)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
